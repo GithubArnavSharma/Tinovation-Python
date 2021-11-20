@@ -7,4 +7,4 @@ Projects include(Ordered from oldest to newest):
 
 - K Neighbors Regression to predict the price of a BMW based on various attributes such as mileage and engine size: 'Car Regression.ipynb'
 
-- Tinovation Project to use K Neighbors Regression to predict flower type: 'IrisProject.ipynb'
+- Tinovation Project to use K Neighbors Regression to predict flower type: 'Iris Project.ipynb'
